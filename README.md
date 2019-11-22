@@ -1,2 +1,1 @@
-# BN-DAlo
-Ciclo di Biennio: Elena D'Alò
+# Lezione di giovedì 21 novembre 2019\n\n## Argomenti
